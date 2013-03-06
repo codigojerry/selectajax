@@ -65,9 +65,9 @@ while($fila=mysql_fetch_array($res)){
 </select>
 
 
-<div id="myDiv"></div>
+<div id="myDiv"></div><!--div donde aparecen los paises-->
 
-<div id="myDiv2"></div>
+<div id="myDiv2"></div><!--div donde aparecen los estados de los paises-->
 
 </body>
 
